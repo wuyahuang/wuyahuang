@@ -6,9 +6,9 @@
 * 🎓 Educated in Xiamen University, master of engineering management
 * 📱 Over 7 years of working experience in mobile internet, developer of 3 popular apps (Qunar/Snowball/MeetYou)
 * 💻 Over 4 years of working experience in blockchain, full stack developer in web3 (Javascript/Solidity/C++/Rust)
-* ❤️  Founder of Green Lemon Protocol which was funded by the Web3 Foundation Grants Program
-* 🌱 Winner of Polkadot Hackathon 2022 / Near MetaBuild I / Avalanche Hacks 2022
+* ❤️  Founder of Green Lemon Protocol which is funded by the Web3 Foundation Grants Program
+* 🌱 Winner of Polkadot Hackathon 2022 / NEAR MetaBuild I / Avalanche Hacks 2022
 * 😀 Technical mentor for the EOS Hackathon in Hongkong
-* 🧑‍💼 Head of the technical team of EOS genesis block producer
-* 👨‍💻 Contributed code to several repositories in the 2020 GitHub Archive Program
+* 🧑‍💼 Head of the technical team of EOS genesis block producer MEET.ONE
+* 👨‍💻 Contributed code to several repositories in the 2020 Github Archive Program
 * 🧐 Owner of 10 blockchain technology patents
