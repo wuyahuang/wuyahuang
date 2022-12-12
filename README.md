@@ -2,7 +2,6 @@
 
 ![wuyahuang's Github Stats](https://github-readme-stats.vercel.app/api?username=wuyahuang&count_private=true&show_icons=true&theme=gruvbox_light)
 
-* 🏊‍♀️ Swimming lover
 * 🎓 Educated in Xiamen University, master of engineering management
 * 📱 Over 7 years of working experience in mobile internet, developer of 3 popular apps (Qunar/Snowball/Meetyou)
 * 💻 Over 4 years of working experience in blockchain, full stack developer in web3 (Javascript/Solidity/C++/Rust)
