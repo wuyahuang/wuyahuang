@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=wuyahuang&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wuyahuang&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuyahuang&hide_progress=true)
 
 * 🎓 Educating in Xiamen University, master of engineering management
