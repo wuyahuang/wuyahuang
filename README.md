@@ -11,3 +11,8 @@
 * 🧑‍💼 Head of the technical team of EOS genesis block producer MEET.ONE
 * 👨‍💻 Contributed code to several repositories in the 2020 Github Archive Program
 * 🧐 Owner of 10 blockchain technology patents
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
+</p>
