@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=wuyahuang&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wuyahuang&theme=buefy&hide_border=false)<br/>
 
 * 🎓 Educating in Xiamen University, master of engineering management
 * 📱 Over 7 years of working experience in mobile internet, developer of 3 popular apps (Qunar/Snowball/Meetyou)
