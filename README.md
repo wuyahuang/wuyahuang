@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
